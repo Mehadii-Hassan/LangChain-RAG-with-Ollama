@@ -52,7 +52,6 @@ It allows you to <strong>load documents or web pages</strong>, split them into c
 
 <pre>
 langchain-rag-agent/
-│
 ├── RAG chatbot.ipynb        ← Main Colab Notebook
 ├── requirements.txt          ← Dependencies
 └── README.md                 ← Project Documentation
@@ -73,7 +72,7 @@ langchain-rag-agent/
 
   <li>Run the notebook in Google Colab or locally</li>
 
-  <pre><code>jupyter notebook assignment_1.ipynb</code></pre>
+  <pre><code>jupyter notebook RAG chatbot.ipynb</code></pre>
 </ol>
 
 <hr>
