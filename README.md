@@ -53,7 +53,7 @@ It allows you to <strong>load documents or web pages</strong>, split them into c
 <pre>
 langchain-rag-agent/
 │
-├── assignment_1.ipynb        ← Main Colab Notebook
+├── RAG chatbot.ipynb        ← Main Colab Notebook
 ├── requirements.txt          ← Dependencies
 └── README.md                 ← Project Documentation
 </pre>
