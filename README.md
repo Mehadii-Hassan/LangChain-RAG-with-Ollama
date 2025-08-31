@@ -1,7 +1,7 @@
 <h1 align="center">🤖 LangChain RAG Agent</h1>
 
 <p align="center">
-  <strong>Your AI-powered Document & Web Knowledge Assistant</strong><br>
+  <strong>Your AI-powered Document & Web Knowledge Assistant </strong><br>
   Query PDF files or web pages with natural language – powered by LangChain, FAISS, and Ollama.
 </p>
 
